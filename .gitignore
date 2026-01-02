@@ -6,4 +6,6 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints/
 
-
+# Environnement virtuel
+venv/ 
+venv/
