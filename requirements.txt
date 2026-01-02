@@ -1,0 +1,8 @@
+numpy
+pandas
+scikit-learn
+imbalanced-learn
+matplotlib
+joblib
+notebook>=7.0
+ipykernel>=6.0
