@@ -4,5 +4,6 @@ scikit-learn
 imbalanced-learn
 matplotlib
 joblib
+statsmodels.api
 notebook>=7.0
 ipykernel>=6.0
