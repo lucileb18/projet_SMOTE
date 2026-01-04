@@ -8,6 +8,7 @@ Les expérimentations portent notamment sur une régression logistique et une Ra
 
 ## Structure du projet
 data/raw/ --> contient les données brutes 
+
 data/processed --> contient les données prétraitées sous la forme de base d'apprentissage et de test
 
 notebooks/ --> contient les 3 notebooks du projet 
