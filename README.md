@@ -16,9 +16,9 @@ notebooks/ --> contient les 3 notebooks du projet
     02_pretraitement_des_donnees.ipynb
     03_modelisation.ipynb 
 
-README.me
+README.md
 requirements.txt --> Contient les packages et les dépendances du projet 
-gitignore
+.gitignore
 
 ## Ordre d'exécution des codes 
 Etape 1 : 01_analyse_exploratoire.ipynb
@@ -32,3 +32,10 @@ Etape 3 : 03_modelisation.ipynb
 Modélisation, application de SMOTE, comparaison des modèles.
 
 Les dépendances nécessaires à l’exécution du projet sont listées dans le fichier requirements.txt. 
+
+L’environnement virtuel n’est pas versionné sur Git.  
+Il peut être recréé à l’aide des commandes suivantes :
+
+```bash
+source .venv/Scripts/activate   # Windows
+pip install -r requirements.txt
