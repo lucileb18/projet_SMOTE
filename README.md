@@ -26,7 +26,7 @@ Analyse descriptive du jeu de données et mise en évidence du déséquilibre de
 
 Etape 2 : 02_pretraitement_des_donnees.ipynb
 Séparation des jeux d’apprentissage et de test, standardisation des variables numériques
-et préparation des données.
+et préparation des données pour la modélisation.
 
 Etape 3 : 03_modelisation.ipynb
 Modélisation, application de SMOTE, comparaison des modèles.
